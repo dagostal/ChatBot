@@ -1,0 +1,6 @@
+module Pods_DayBreakChallenge_DayBreakChallengeTests {
+  umbrella header "Pods-DayBreakChallenge-DayBreakChallengeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
